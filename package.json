@@ -1,0 +1,26 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "curso de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirukatfl/accounts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirukatfl/accounts/issues"
+  },
+  "homepage": "https://github.com/pirukatfl/accounts#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4"
+  },
+  "type": "module"
+}
